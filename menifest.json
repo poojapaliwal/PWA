@@ -1,0 +1,20 @@
+{
+    "background_color": "purple",
+    "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "images/logo1.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/logo2.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "Awesome fox pictures",
+    "short_name": "Foxes",
+    "start_url": "/PWA/index.html"
+  }
