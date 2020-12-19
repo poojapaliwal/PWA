@@ -14,7 +14,7 @@
         "type": "image/png"
       }
     ],
-    "name": "Awesome fox pictures",
-    "short_name": "Foxes",
+    "name": "Awesome logo pictures",
+    "short_name": "logos",
     "start_url": "/PWA/index.html"
   }
