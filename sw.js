@@ -2,12 +2,13 @@ self.addEventListener('install', function(e) {
     e.waitUntil(
       caches.open('fox-store').then(function(cache) {
         return cache.addAll([
-          '/PWA/',
-          '/PWA/index.html',
-          '/PWA/index.js',
-          '/PWA/style.css',
-          '/PWA/images/logo1.jpg',
-          '/PWA/images/logo2.jpg'
+          './',
+          './index.html',
+          './index.js',
+          './style.css',
+          './images/logo1.png',
+          './images/logo2.png',
+          './images/icon.png'
         ]);
       })
     );
